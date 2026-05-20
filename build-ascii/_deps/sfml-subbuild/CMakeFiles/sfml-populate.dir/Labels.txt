@@ -1,0 +1,14 @@
+# Target labels
+ sfml-populate
+# Source files and their labels
+C:/codex_project_ascii/build-ascii/_deps/sfml-subbuild/CMakeFiles/sfml-populate
+C:/codex_project_ascii/build-ascii/_deps/sfml-subbuild/CMakeFiles/sfml-populate.rule
+C:/codex_project_ascii/build-ascii/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete.rule
+C:/codex_project_ascii/build-ascii/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build.rule
+C:/codex_project_ascii/build-ascii/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure.rule
+C:/codex_project_ascii/build-ascii/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download.rule
+C:/codex_project_ascii/build-ascii/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install.rule
+C:/codex_project_ascii/build-ascii/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir.rule
+C:/codex_project_ascii/build-ascii/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch.rule
+C:/codex_project_ascii/build-ascii/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test.rule
+C:/codex_project_ascii/build-ascii/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update.rule

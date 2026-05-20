@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/codex_project_ascii/build-ascii/_deps/sfml-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
